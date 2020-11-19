@@ -1,0 +1,2 @@
+# PeopleCert-camp
+BootCamp exercises
